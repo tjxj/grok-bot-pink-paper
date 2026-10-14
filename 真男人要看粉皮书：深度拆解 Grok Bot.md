@@ -2,7 +2,9 @@
 
 > **作者**：Ai学习的老章@微信公众号  
 > **发布日期**：2026年10月  
-> **核心物料**：《Grok Bot 粉皮书》（已交付 HTML、Markdown 与 60+ 页精排 LaTeX PDF · 终极典藏版）
+> **核心物料**：《Grok Bot 粉皮书》（已交付 HTML、Markdown 与 60 页精排 LaTeX PDF · 终极典藏版）  
+> **开源仓库**：[https://github.com/tjxj/grok-bot-pink-paper](https://github.com/tjxj/grok-bot-pink-paper)  
+> **PDF 下载**：[https://github.com/tjxj/grok-bot-pink-paper/releases/tag/v1.0.0](https://github.com/tjxj/grok-bot-pink-paper/releases/tag/v1.0.0)
 
 ![真男人看粉皮书](grok_bot_pink_paper_assets/product_image-007-introducing-grok-bot-og-2-dd237b19.png)
 
@@ -156,9 +158,17 @@ Stefan 跑通了“调研 -> 拓客 -> 拟信 -> CLEAR/FLAG 分流 -> 终审”�
 
 智能体不需要更多玄学提示词，它需要一台真正能够自主跑完流程的云电脑。
 
-为了让大家无死角掌握这套体系，我们已经把整整 50 个完整章节、10 大核心板块与 18 大垂直职能实战编排成了三个完整版本：
-1. **HTML 交互长卷版**（`grok_bot_pink_paper.html`）：带有暗夜粉科技主题、侧边栏目录跳转与全套高清图谱；
-2. **Markdown 完整工程版**（`grok_bot_pink_paper.md`）：超 5 万字深度硬核技术干货，所有代码块与图表完全开源；
-3. **LaTeX 精品排版 PDF 版**（`grok_bot_pink_paper.pdf`）：28 页粉色系封面、双语高清排版、附带完整目录与矢量表格。
+为了让大家无死角掌握这套体系，我们已经把整整 50 个完整章节、10 大核心板块与 18 大垂直职能实战编排成了三个完整版本，并**全部开源到 GitHub**：
+
+### 📦 全量开源地址与下载渠道
+- **GitHub 官方开源仓库**：[https://github.com/tjxj/grok-bot-pink-paper](https://github.com/tjxj/grok-bot-pink-paper)
+- **v1.0.0 典藏版 PDF 极速下载**：[https://github.com/tjxj/grok-bot-pink-paper/releases/tag/v1.0.0](https://github.com/tjxj/grok-bot-pink-paper/releases/tag/v1.0.0)（包含 60 页全量图文精装 PDF、全新瑞士极简纯粉封面）
+- **仓库开源资产包含**：
+  1. **HTML 交互长卷版**（`grok_bot_pink_paper.html`）：暗夜粉科技主题、侧边栏目录跳转与全套高清图谱；
+  2. **Markdown 完整工程版**（`grok_bot_pink_paper.md`）：超 5 万字深度硬核技术干货，所有代码块与图表完全开源；
+  3. **LaTeX 精品排版 PDF 版**（`grok_bot_pink_paper.pdf`）：60 页瑞士极简纯粉封面、双语高清排版、附带完整目录与矢量表格；
+  4. **完整 LaTeX 编译源码与全套高清素材资源库**。
+
+欢迎大家前往 GitHub 仓库 Star 支持，参与 Fork 与共同迭代！
 
 真男人要看粉皮书。合上笔记本，让云端的粉色风暴替你干活去吧。

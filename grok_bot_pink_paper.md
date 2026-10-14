@@ -1,6 +1,8 @@
 # 《Grok Bot 粉皮书：新一代自主智能体云电脑全景技术指南与企业级实战宝典》
 
-**作　　者**：Ai学习的老章@微信公众号
+**作　　者**：Ai学习的老章@微信公众号  
+**开源仓库**：https://github.com/tjxj/grok-bot-pink-paper  
+**发布版本**：2026 典藏版（v1.0.0）
 
 ### The Grok Bot Pink Paper: The Definitive Guide to Autonomous Cloud Computers & Multi-Agent Operations
 
